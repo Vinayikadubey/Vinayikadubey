@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinayikapment program 
+- 👋 Hi, I’m @Vinayika Dubey Backend developer
 
 <!---
 
